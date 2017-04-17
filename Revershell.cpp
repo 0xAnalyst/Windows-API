@@ -1,6 +1,6 @@
 // ReverseShell.cpp : Defines the entry point for the console application.
 // used visual studio 2015
-// set nc listener with nc -lvp 443
+// setup nc listener with nc -lvp 443 on your IP 
 
 #include "stdafx.h"
 #include <winsock2.h>
