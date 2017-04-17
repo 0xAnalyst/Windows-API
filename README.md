@@ -1,5 +1,5 @@
 # Windows-API
-windows API projects that mights help pentesters
+windows API projects that might help pentesters
 
 reverse shell "change port and IP"
 
